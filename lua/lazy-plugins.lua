@@ -20,6 +20,7 @@ require('lazy').setup({
   require 'kickstart/plugins/todo-comments',
   require 'kickstart/plugins/mini',
   require 'kickstart/plugins/treesitter',
+  require 'kickstart/plugins/neo-tree',
 
   -- NOTE: Next step on your Neovim journey: Add/Configure additional plugins for Kickstart
   --
